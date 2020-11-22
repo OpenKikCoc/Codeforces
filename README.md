@@ -1,7 +1,7 @@
 # Codeforces
 Codeforces Solutions
 
-## 0. Basiz
+## 0. Basic
 
 [cf-tool](https://github.com/xalanq/cf-tool) 命令行 submit
 
@@ -20,6 +20,8 @@ Codeforces Solutions
 2. [1900-2200 pdf](Tutorial of Codeforces.pdf)
 
 [Codefoces All in Github](https://github.com/DionysiosB/CodeForces)
+
+### 另 **[All the good tutorials found for Competitive Programming](http://codeforces.com/blog/entry/57282) 的汇总和总结** 在 Tutorials 栏。
 
 ## 2. Attention
 
