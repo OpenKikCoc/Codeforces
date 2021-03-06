@@ -6,34 +6,34 @@
 | Checkbox | ID  | Problem Name | Online Judge | Difficulty |
 |---|:---:|:---:|---|---|
 | [here](./001.md) |1|[Young Physicist](http://codeforces.com/problemset/problem/69/A)|Codeforces|1|
-| |2|[Beautiful Matrix](http://codeforces.com/problemset/problem/263/A)|Codeforces|1|
-| |3|[Queue at the School](http://codeforces.com/problemset/problem/266/B)|Codeforces|1|
-| |4|[Borze](http://codeforces.com/problemset/problem/32/B)|Codeforces|1|
-| |5|[Beautiful Year](http://codeforces.com/problemset/problem/271/A)|Codeforces|1|
-| |6|[Lights Out](http://codeforces.com/problemset/problem/275/A)|Codeforces|1|
-| |7|[Word](http://codeforces.com/problemset/problem/59/A)|Codeforces|1|
-| |8|[Word Capitalization](http://codeforces.com/problemset/problem/281/A)|Codeforces|1|
-| |9|[Nearly Lucky Number](http://codeforces.com/problemset/problem/110/A)|Codeforces|1|
-| |10|[Stones on the Table](http://codeforces.com/problemset/problem/266/A)|Codeforces|1|
-| |11|[Panoramix's Prediction](http://codeforces.com/problemset/problem/80/A)|Codeforces|1|
-| |12|[Ultra-Fast Mathematician](http://codeforces.com/problemset/problem/61/A)|Codeforces|1|
-| |13|[Perfect Permutation](http://codeforces.com/problemset/problem/233/A)|Codeforces|1|
-| |14|[Arrival of the General](http://codeforces.com/problemset/problem/144/A)|Codeforces|1|
-| |15|[Drinks](http://codeforces.com/problemset/problem/200/B)|Codeforces|1|
-| |16|[Insomnia cure](http://codeforces.com/problemset/problem/148/A)|Codeforces|1|
-| |17|[Cupboards](http://codeforces.com/problemset/problem/248/A)|Codeforces|1|
-| |18|[I_love_\%username\%](http://codeforces.com/problemset/problem/155/A)|Codeforces|1|
-| |19|[Tram](http://codeforces.com/problemset/problem/116/A)|Codeforces|1|
-| |20|[Helpful Maths](http://codeforces.com/problemset/problem/339/A)|Codeforces|1|
-| |21|[Is your horseshoe on the other hoof?](http://codeforces.com/problemset/problem/228/A)|Codeforces|1|
-| |22|[Way Too Long Words](http://codeforces.com/problemset/problem/71/A)|Codeforces|1|
-| |23|[Boy or Girl](http://codeforces.com/problemset/problem/236/A)|Codeforces|1|
-| |24|[Amusing Joke](http://codeforces.com/problemset/problem/141/A)|Codeforces|1|
-| |25|[Soft Drinking](http://codeforces.com/problemset/problem/151/A)|Codeforces|1|
-| |26|[HQ9+](http://codeforces.com/problemset/problem/133/A)|Codeforces|1|
-| |27|[Petya and Strings](http://codeforces.com/problemset/problem/112/A)|Codeforces|1|
-| |28|[Team](http://codeforces.com/problemset/problem/231/A)|Codeforces|1|
-| |29|[Bit++](http://codeforces.com/problemset/problem/282/A)|Codeforces|1|
+| [here](./002.md) |2|[Beautiful Matrix](http://codeforces.com/problemset/problem/263/A)|Codeforces|1|
+| [here](./003.md) |3|[Queue at the School](http://codeforces.com/problemset/problem/266/B)|Codeforces|1|
+| [here](./004.md) |4|[Borze](http://codeforces.com/problemset/problem/32/B)|Codeforces|1|
+| [here](./005.md) |5|[Beautiful Year](http://codeforces.com/problemset/problem/271/A)|Codeforces|1|
+| [here](./006.md) |6|[Lights Out](http://codeforces.com/problemset/problem/275/A)|Codeforces|1|
+| [here](./007.md) |7|[Word](http://codeforces.com/problemset/problem/59/A)|Codeforces|1|
+| [here](./008.md) |8|[Word Capitalization](http://codeforces.com/problemset/problem/281/A)|Codeforces|1|
+| [here](./009.md) |9|[Nearly Lucky Number](http://codeforces.com/problemset/problem/110/A)|Codeforces|1|
+| [here](./010.md) |10|[Stones on the Table](http://codeforces.com/problemset/problem/266/A)|Codeforces|1|
+| [here](./011.md) |11|[Panoramix's Prediction](http://codeforces.com/problemset/problem/80/A)|Codeforces|1|
+| [here](./012.md) |12|[Ultra-Fast Mathematician](http://codeforces.com/problemset/problem/61/A)|Codeforces|1|
+| [here](./013.md) |13|[Perfect Permutation](http://codeforces.com/problemset/problem/233/A)|Codeforces|1|
+| [here](./014.md) |14|[Arrival of the General](http://codeforces.com/problemset/problem/144/A)|Codeforces|1|
+| [here](./015.md) |15|[Drinks](http://codeforces.com/problemset/problem/200/B)|Codeforces|1|
+| [here](./016.md) |16|[Insomnia cure](http://codeforces.com/problemset/problem/148/A)|Codeforces|1|
+| [here](./017.md) |17|[Cupboards](http://codeforces.com/problemset/problem/248/A)|Codeforces|1|
+| [here](./018.md) |18|[I_love_\%username\%](http://codeforces.com/problemset/problem/155/A)|Codeforces|1|
+| [here](./019.md) |19|[Tram](http://codeforces.com/problemset/problem/116/A)|Codeforces|1|
+| [here](./020.md) |20|[Helpful Maths](http://codeforces.com/problemset/problem/339/A)|Codeforces|1|
+| [here](./021.md) |21|[Is your horseshoe on the other hoof?](http://codeforces.com/problemset/problem/228/A)|Codeforces|1|
+| [here](./022.md) |22|[Way Too Long Words](http://codeforces.com/problemset/problem/71/A)|Codeforces|1|
+| [here](./023.md) |23|[Boy or Girl](http://codeforces.com/problemset/problem/236/A)|Codeforces|1|
+| [here](./024.md) |24|[Amusing Joke](http://codeforces.com/problemset/problem/141/A)|Codeforces|1|
+| [here](./025.md) |25|[Soft Drinking](http://codeforces.com/problemset/problem/151/A)|Codeforces|1|
+| [here](./026.md) |26|[HQ9+](http://codeforces.com/problemset/problem/133/A)|Codeforces|1|
+| [here](./027.md) |27|[Petya and Strings](http://codeforces.com/problemset/problem/112/A)|Codeforces|1|
+| [here](./028.md) |28|[Team](http://codeforces.com/problemset/problem/231/A)|Codeforces|1|
+| [here](./029.md) |29|[Bit++](http://codeforces.com/problemset/problem/282/A)|Codeforces|1|
 | |30|[Effective Approach](http://codeforces.com/problemset/problem/227/B)|Codeforces|2|
 | |31|[Dima and Friends](http://codeforces.com/problemset/problem/272/A)|Codeforces|2|
 | |32|[Jzzhu and Children](http://codeforces.com/problemset/problem/450/A)|Codeforces|2|
