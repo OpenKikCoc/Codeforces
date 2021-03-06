@@ -5,7 +5,7 @@
 
 | Checkbox | ID  | Problem Name | Online Judge | Difficulty |
 |---|:---:|:---:|---|---|
-| |1|[Young Physicist](http://codeforces.com/problemset/problem/69/A)|Codeforces|1|
+| [here](./001.md) |1|[Young Physicist](http://codeforces.com/problemset/problem/69/A)|Codeforces|1|
 | |2|[Beautiful Matrix](http://codeforces.com/problemset/problem/263/A)|Codeforces|1|
 | |3|[Queue at the School](http://codeforces.com/problemset/problem/266/B)|Codeforces|1|
 | |4|[Borze](http://codeforces.com/problemset/problem/32/B)|Codeforces|1|
