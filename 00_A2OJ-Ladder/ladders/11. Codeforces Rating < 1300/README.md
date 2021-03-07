@@ -34,27 +34,27 @@
 | [here](./027.md) |27|[Petya and Strings](http://codeforces.com/problemset/problem/112/A)|Codeforces|1|
 | [here](./028.md) |28|[Team](http://codeforces.com/problemset/problem/231/A)|Codeforces|1|
 | [here](./029.md) |29|[Bit++](http://codeforces.com/problemset/problem/282/A)|Codeforces|1|
-| |30|[Effective Approach](http://codeforces.com/problemset/problem/227/B)|Codeforces|2|
-| |31|[Dima and Friends](http://codeforces.com/problemset/problem/272/A)|Codeforces|2|
-| |32|[Jzzhu and Children](http://codeforces.com/problemset/problem/450/A)|Codeforces|2|
-| |33|[Supercentral Point](http://codeforces.com/problemset/problem/165/A)|Codeforces|2|
-| |34|[Petr and Book](http://codeforces.com/problemset/problem/139/A)|Codeforces|2|
-| |35|[Parallelepiped](http://codeforces.com/problemset/problem/224/A)|Codeforces|2|
-| |36|[Reconnaissance 2](http://codeforces.com/problemset/problem/34/A)|Codeforces|2|
-| |37|[Even Odds](http://codeforces.com/problemset/problem/318/A)|Codeforces|2|
-| |38|[Little Elephant and Rozdil](http://codeforces.com/problemset/problem/205/A)|Codeforces|2|
-| |39|[Hexadecimal's theorem](http://codeforces.com/problemset/problem/199/A)|Codeforces|2|
-| |40|[Jeff and Digits](http://codeforces.com/problemset/problem/352/A)|Codeforces|2|
-| |41|[Xenia and Ringroad](http://codeforces.com/problemset/problem/339/B)|Codeforces|2|
-| |42|[Magic Numbers](http://codeforces.com/problemset/problem/320/A)|Codeforces|2|
-| |43|[Translation](http://codeforces.com/problemset/problem/41/A)|Codeforces|2|
-| |44|[Football](http://codeforces.com/problemset/problem/43/A)|Codeforces|2|
-| |45|[Bicycle Chain](http://codeforces.com/problemset/problem/215/A)|Codeforces|2|
-| |46|[Sale](http://codeforces.com/problemset/problem/34/B)|Codeforces|2|
-| |47|[System of Equations](http://codeforces.com/problemset/problem/214/A)|Codeforces|2|
-| |48|[Business trip](http://codeforces.com/problemset/problem/149/A)|Codeforces|2|
-| |49|[Dubstep](http://codeforces.com/problemset/problem/208/A)|Codeforces|2|
-| |50|[k-String](http://codeforces.com/problemset/problem/219/A)|Codeforces|2|
+| [here](./030.md) |30|[Effective Approach](http://codeforces.com/problemset/problem/227/B)|Codeforces|2|
+| [here](./031.md) |31|[Dima and Friends](http://codeforces.com/problemset/problem/272/A)|Codeforces|2|
+| [here](./032.md) |32|[Jzzhu and Children](http://codeforces.com/problemset/problem/450/A)|Codeforces|2|
+| [here](./033.md) |33|[Supercentral Point](http://codeforces.com/problemset/problem/165/A)|Codeforces|2|
+| [here](./034.md) |34|[Petr and Book](http://codeforces.com/problemset/problem/139/A)|Codeforces|2|
+| [here](./035.md) |35|[Parallelepiped](http://codeforces.com/problemset/problem/224/A)|Codeforces|2|
+| [here](./036.md) |36|[Reconnaissance 2](http://codeforces.com/problemset/problem/34/A)|Codeforces|2|
+| [here](./037.md) |37|[Even Odds](http://codeforces.com/problemset/problem/318/A)|Codeforces|2|
+| [here](./038.md) |38|[Little Elephant and Rozdil](http://codeforces.com/problemset/problem/205/A)|Codeforces|2|
+| [here](./039.md) |39|[Hexadecimal's theorem](http://codeforces.com/problemset/problem/199/A)|Codeforces|2|
+| [here](./040.md) |40|[Jeff and Digits](http://codeforces.com/problemset/problem/352/A)|Codeforces|2|
+| [here](./041.md) |41|[Xenia and Ringroad](http://codeforces.com/problemset/problem/339/B)|Codeforces|2|
+| [here](./042.md) |42|[Magic Numbers](http://codeforces.com/problemset/problem/320/A)|Codeforces|2|
+| [here](./043.md) |43|[Translation](http://codeforces.com/problemset/problem/41/A)|Codeforces|2|
+| [here](./044.md) |44|[Football](http://codeforces.com/problemset/problem/43/A)|Codeforces|2|
+| [here](./045.md) |45|[Bicycle Chain](http://codeforces.com/problemset/problem/215/A)|Codeforces|2|
+| [here](./046.md) |46|[Sale](http://codeforces.com/problemset/problem/34/B)|Codeforces|2|
+| [here](./047.md) |47|[System of Equations](http://codeforces.com/problemset/problem/214/A)|Codeforces|2|
+| [here](./048.md) |48|[Business trip](http://codeforces.com/problemset/problem/149/A)|Codeforces|2|
+| [here](./049.md) |49|[Dubstep](http://codeforces.com/problemset/problem/208/A)|Codeforces|2|
+| [here](./050.md) |50|[k-String](http://codeforces.com/problemset/problem/219/A)|Codeforces|2|
 | |51|[The number of positions](http://codeforces.com/problemset/problem/124/A)|Codeforces|2|
 | |52|[Football](http://codeforces.com/problemset/problem/96/A)|Codeforces|2|
 | |53|[String Task](http://codeforces.com/problemset/problem/118/A)|Codeforces|2|
