@@ -55,15 +55,15 @@
 | [here](./048.md) |48|[Business trip](http://codeforces.com/problemset/problem/149/A)|Codeforces|2|
 | [here](./049.md) |49|[Dubstep](http://codeforces.com/problemset/problem/208/A)|Codeforces|2|
 | [here](./050.md) |50|[k-String](http://codeforces.com/problemset/problem/219/A)|Codeforces|2|
-| |51|[The number of positions](http://codeforces.com/problemset/problem/124/A)|Codeforces|2|
-| |52|[Football](http://codeforces.com/problemset/problem/96/A)|Codeforces|2|
-| |53|[String Task](http://codeforces.com/problemset/problem/118/A)|Codeforces|2|
-| |54|[Little Elephant and Function](http://codeforces.com/problemset/problem/221/A)|Codeforces|2|
-| |55|[Present from Lena](http://codeforces.com/problemset/problem/118/B)|Codeforces|2|
-| |56|[Dragons](http://codeforces.com/problemset/problem/230/A)|Codeforces|2|
-| |57|[Puzzles](http://codeforces.com/problemset/problem/337/A)|Codeforces|2|
-| |58|[Chat room](http://codeforces.com/problemset/problem/58/A)|Codeforces|2|
-| |59|[Airport](http://codeforces.com/problemset/problem/218/B)|Codeforces|2|
+| [here](./051.md) |51|[The number of positions](http://codeforces.com/problemset/problem/124/A)|Codeforces|2|
+| [here](./052.md) |52|[Football](http://codeforces.com/problemset/problem/96/A)|Codeforces|2|
+| [here](./053.md) |53|[String Task](http://codeforces.com/problemset/problem/118/A)|Codeforces|2|
+| [here](./054.md) |54|[Little Elephant and Function](http://codeforces.com/problemset/problem/221/A)|Codeforces|2|
+| [here](./055.md) |55|[Present from Lena](http://codeforces.com/problemset/problem/118/B)|Codeforces|2|
+| [here](./056.md) |56|[Dragons](http://codeforces.com/problemset/problem/230/A)|Codeforces|2|
+| [here](./057.md) |57|[Puzzles](http://codeforces.com/problemset/problem/337/A)|Codeforces|2|
+| [here](./058.md) |58|[Chat room](http://codeforces.com/problemset/problem/58/A)|Codeforces|2|
+| [here](./059.md) |59|[Airport](http://codeforces.com/problemset/problem/218/B)|Codeforces|2|
 | |60|[DZY Loves Chessboard](http://codeforces.com/problemset/problem/445/A)|Codeforces|3|
 | |61|[Pashmak and Flowers](http://codeforces.com/problemset/problem/459/B)|Codeforces|3|
 | |62|[Jeff and Periods](http://codeforces.com/problemset/problem/352/B)|Codeforces|3|
