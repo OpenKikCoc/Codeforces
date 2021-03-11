@@ -63,38 +63,38 @@
 | [here](./056.md) |56|[Sail](http://codeforces.com/problemset/problem/298/B)|Codeforces|3|
 | [here](./057.md) |57|[Find Marble](http://codeforces.com/problemset/problem/285/B)|Codeforces|3|
 | [here](./058.md) |58|[Free Cash](http://codeforces.com/problemset/problem/237/A)|Codeforces|3|
-| |59|[Roma and Changing Signs](http://codeforces.com/problemset/problem/262/B)|Codeforces|3|
-| |60|[Dreamoon and WiFi](http://codeforces.com/problemset/problem/476/B)|Codeforces|3|
-| |61|[Dima and Staircase](http://codeforces.com/problemset/problem/272/C)|Codeforces|3|
+| [here](./059.md)<br>细节和 case 较多 理解题意 |59|[Roma and Changing Signs](http://codeforces.com/problemset/problem/262/B)|Codeforces|3|
+| [here](./060.md) |60|[Dreamoon and WiFi](http://codeforces.com/problemset/problem/476/B)|Codeforces|3|
+| [here](./061.md)<br>思维题 |61|[Dima and Staircase](http://codeforces.com/problemset/problem/272/C)|Codeforces|3|
 | [here](./062.md) |62|[Comparing Strings](http://codeforces.com/problemset/problem/186/A)|Codeforces|3|
-| |63|[Sereja and Array](http://codeforces.com/problemset/problem/315/B)|Codeforces|3|
+| [here](./063.md) |63|[Sereja and Array](http://codeforces.com/problemset/problem/315/B)|Codeforces|3|
 | [here](./064.md) |64|[Sereja and Suffixes](http://codeforces.com/problemset/problem/368/B)|Codeforces|3|
 | [here](./065.md) |65|[Pashmak and Flowers](http://codeforces.com/problemset/problem/459/B)|Codeforces|3|
-| |66|[Simple Molecules](http://codeforces.com/problemset/problem/344/B)|Codeforces|3|
+| [here](./066.md) |66|[Simple Molecules](http://codeforces.com/problemset/problem/344/B)|Codeforces|3|
 | [here](./067.md) |67|[DZY Loves Chessboard](http://codeforces.com/problemset/problem/445/A)|Codeforces|3|
-| |68|[Fixed Points](http://codeforces.com/problemset/problem/347/B)|Codeforces|3|
+| [here](./068.md) |68|[Fixed Points](http://codeforces.com/problemset/problem/347/B)|Codeforces|3|
 | [here](./069.md) |69|[Hungry Sequence](http://codeforces.com/problemset/problem/327/B)|Codeforces|3|
 | [here](./070.md) |70|[Building Permutation](http://codeforces.com/problemset/problem/285/C)|Codeforces|3|
-| |71|[Road Construction](http://codeforces.com/problemset/problem/330/B)|Codeforces|3|
+| [here](./071.md) |71|[Road Construction](http://codeforces.com/problemset/problem/330/B)|Codeforces|3|
 | [here](./072.md) |72|[Little Girl and Game](http://codeforces.com/problemset/problem/276/B)|Codeforces|3|
 | [here](./073.md) |73|[Fence](http://codeforces.com/problemset/problem/363/B)|Codeforces|3|
 | [here](./074.md) |74|[Flipping Game](http://codeforces.com/problemset/problem/327/A)|Codeforces|3|
 | [here](./075.md) |75|[Cut Ribbon](http://codeforces.com/problemset/problem/189/A)|Codeforces|3|
-| |76|[Ilya and Queries](http://codeforces.com/problemset/problem/313/B)|Codeforces|3|
-| |77|[Little Dima and Equation](http://codeforces.com/problemset/problem/460/B)|Codeforces|4|
-| |78|[George and Job](http://codeforces.com/problemset/problem/467/C)|Codeforces|4|
+| [here](./076.md) |76|[Ilya and Queries](http://codeforces.com/problemset/problem/313/B)|Codeforces|3|
+| [here](./077.md)<br>思维 枚举和 |77|[Little Dima and Equation](http://codeforces.com/problemset/problem/460/B)|Codeforces|4|
+| [here](./078.md)<br>**状态定义是核心 多增加感觉**<br>一开始想的还是以 i 为结束分为 k 段<br>实际上可以是 在 i 及之前就分为 k 段 |78|[George and Job](http://codeforces.com/problemset/problem/467/C)|Codeforces|4|
 | [here](./079.md) |79|[Sereja and Bottles](http://codeforces.com/problemset/problem/315/A)|Codeforces|4|
-| |80|[Routine Problem](http://codeforces.com/problemset/problem/337/B)|Codeforces|4|
-| |81|[Hamburgers](http://codeforces.com/problemset/problem/371/C)|Codeforces|4|
+| [here](./080.md)<br>思维 使用公式转化/gcd而非浮点数 |80|[Routine Problem](http://codeforces.com/problemset/problem/337/B)|Codeforces|4|
+| [here](./081.md)<br>二分即可 范围有坑 |81|[Hamburgers](http://codeforces.com/problemset/problem/371/C)|Codeforces|4|
 | [here](./082.md) |82|[Jzzhu and Sequences](http://codeforces.com/problemset/problem/450/B)|Codeforces|4|
-| |83|[Flag Day](http://codeforces.com/problemset/problem/357/B)|Codeforces|4|
-| |84|[Valera and Fruits](http://codeforces.com/problemset/problem/441/B)|Codeforces|4|
-| |85|[Fox Dividing Cheese](http://codeforces.com/problemset/problem/371/B)|Codeforces|4|
-| |86|[Dima and Continuous Line](http://codeforces.com/problemset/problem/358/A)|Codeforces|4|
-| |87|[Lucky Numbers (easy)](http://codeforces.com/problemset/problem/96/B)|Codeforces|4|
-| |88|[Coach](http://codeforces.com/problemset/problem/300/B)|Codeforces|4|
-| |89|[Ciel and Flowers](http://codeforces.com/problemset/problem/322/B)|Codeforces|4|
-| |90|[k-Tree](http://codeforces.com/problemset/problem/431/C)|Codeforces|4|
+| [here](./083.md)<br>题意条件对解题简化很关键<br>优雅实现的代码技巧 |83|[Flag Day](http://codeforces.com/problemset/problem/357/B)|Codeforces|4|
+| [here](./084.md) |84|[Valera and Fruits](http://codeforces.com/problemset/problem/441/B)|Codeforces|4|
+| [here](./085.md) |85|[Fox Dividing Cheese](http://codeforces.com/problemset/problem/371/B)|Codeforces|4|
+| [here](./086.md)<br>思维题 勇于暴力 |86|[Dima and Continuous Line](http://codeforces.com/problemset/problem/358/A)|Codeforces|4|
+| [here](./087.md) |87|[Lucky Numbers (easy)](http://codeforces.com/problemset/problem/96/B)|Codeforces|4|
+| [here](./088.md)<br>并查集 重复做 提升题型敏感度 |88|[Coach](http://codeforces.com/problemset/problem/300/B)|Codeforces|4|
+| [here](./089.md)<br>思维 非常好的题 |89|[Ciel and Flowers](http://codeforces.com/problemset/problem/322/B)|Codeforces|4|
+|  |90|[k-Tree](http://codeforces.com/problemset/problem/431/C)|Codeforces|4|
 | |91|[Maximum Absurdity](http://codeforces.com/problemset/problem/332/B)|Codeforces|4|
 | |92|[Fixing Typos](http://codeforces.com/problemset/problem/363/C)|Codeforces|4|
 | |93|[Exams](http://codeforces.com/problemset/problem/479/C)|Codeforces|4|
