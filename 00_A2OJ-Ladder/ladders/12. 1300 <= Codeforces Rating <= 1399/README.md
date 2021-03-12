@@ -94,14 +94,14 @@
 | [here](./087.md) |87|[Lucky Numbers (easy)](http://codeforces.com/problemset/problem/96/B)|Codeforces|4|
 | [here](./088.md)<br>并查集 重复做 提升题型敏感度 |88|[Coach](http://codeforces.com/problemset/problem/300/B)|Codeforces|4|
 | [here](./089.md)<br>思维 非常好的题 |89|[Ciel and Flowers](http://codeforces.com/problemset/problem/322/B)|Codeforces|4|
-|  |90|[k-Tree](http://codeforces.com/problemset/problem/431/C)|Codeforces|4|
-| |91|[Maximum Absurdity](http://codeforces.com/problemset/problem/332/B)|Codeforces|4|
-| |92|[Fixing Typos](http://codeforces.com/problemset/problem/363/C)|Codeforces|4|
-| |93|[Exams](http://codeforces.com/problemset/problem/479/C)|Codeforces|4|
-| |94|[Boredom](http://codeforces.com/problemset/problem/455/A)|Codeforces|4|
-| |95|[Prime Matrix](http://codeforces.com/problemset/problem/271/B)|Codeforces|4|
-| |96|[Books](http://codeforces.com/problemset/problem/279/B)|Codeforces|4|
-| |97|[Little Girl and Maximum Sum](http://codeforces.com/problemset/problem/276/C)|Codeforces|4|
-| |98|[Tetrahedron](http://codeforces.com/problemset/problem/166/E)|Codeforces|4|
-| |99|[XOR and OR](http://codeforces.com/problemset/problem/282/C)|Codeforces|4|
-| |100|[Painting Eggs](http://codeforces.com/problemset/problem/282/B)|Codeforces|4|
+| [here](./090.md)<br/>dp 好题<br>状态定义和转移 |90|[k-Tree](http://codeforces.com/problemset/problem/431/C)|Codeforces|4|
+| [here](./091.md)<br>dp思维 套路<br>记录路径方法 熟练度<br>二维数组大小定义反了导致卡了数个小时 |91|[Maximum Absurdity](http://codeforces.com/problemset/problem/332/B)|Codeforces|4|
+| [here](./092.md) |92|[Fixing Typos](http://codeforces.com/problemset/problem/363/C)|Codeforces|4|
+| [here](./093.md)<br/>思维题 |93|[Exams](http://codeforces.com/problemset/problem/479/C)|Codeforces|4|
+| [here](./094.md)<br/>思维题 理解题意 |94|[Boredom](http://codeforces.com/problemset/problem/455/A)|Codeforces|4|
+| [here](./095.md)<br/>素数筛 二分 综合应用 |95|[Prime Matrix](http://codeforces.com/problemset/problem/271/B)|Codeforces|4|
+| [here](./096.md)<br/>简单滑动窗口 |96|[Books](http://codeforces.com/problemset/problem/279/B)|Codeforces|4|
+| [here](./097.md)<br/>差分 |97|[Little Girl and Maximum Sum](http://codeforces.com/problemset/problem/276/C)|Codeforces|4|
+| [here](./098.md)<br/>dp 及数学方法 |98|[Tetrahedron](http://codeforces.com/problemset/problem/166/E)|Codeforces|4|
+| [here](./099.md)<br>思维题 |99|[XOR and OR](http://codeforces.com/problemset/problem/282/C)|Codeforces|4|
+| [here](./100.md)<br/>思维题 转化 **记忆**<br>修改 std 输入输出 |100|[Painting Eggs](http://codeforces.com/problemset/problem/282/B)|Codeforces|4|
