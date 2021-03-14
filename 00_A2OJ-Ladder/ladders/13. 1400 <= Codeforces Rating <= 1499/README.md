@@ -74,10 +74,10 @@
 | [here](./067.md)<br>思维题<br>重点在于分析知最优的装载情况<br>随后从中间开始贪心<br>中间选取的位置 `n / 2 - 1` 很关键 |67|[Counting Kangaroos is Fun](http://codeforces.com/problemset/problem/372/A)|Codeforces|4|
 | [here](./068.md)<br>思维题<br>想到了每次增加会影响总个数 `n` <br>以及想到二分找区间<br>**没想到找到区间后直接在区间内添加这个数**<br>使得计算得到的新的中点值仍是这个数<br>**写法实现很重要 重复做** |68|[Median](http://codeforces.com/problemset/problem/166/C)|Codeforces|4|
 | [here](./069.md) |69|[Ciel and Flowers](http://codeforces.com/problemset/problem/322/B)|Codeforces|4|
-| |70|[Vanya and Exams](http://codeforces.com/problemset/problem/492/C)|Codeforces|4|
+| [here](./070.md) |70|[Vanya and Exams](http://codeforces.com/problemset/problem/492/C)|Codeforces|4|
 | [here](./071.md) |71|[Fixing Typos](http://codeforces.com/problemset/problem/363/C)|Codeforces|4|
-| |72|[LCM Challenge](http://codeforces.com/problemset/problem/235/A)|Codeforces|4|
-| |73|[Caesar's Legions](http://codeforces.com/problemset/problem/118/D)|Codeforces|4|
+| [here](./072.md)<br>思维题<br>数学推导 结论 |72|[LCM Challenge](http://codeforces.com/problemset/problem/235/A)|Codeforces|4|
+|  |73|[Caesar's Legions](http://codeforces.com/problemset/problem/118/D)|Codeforces|4|
 | |74|[Xenia and Bit Operations](http://codeforces.com/problemset/problem/339/D)|Codeforces|4|
 | [here](./075.md) |75|[Little Girl and Maximum Sum](http://codeforces.com/problemset/problem/276/C)|Codeforces|4|
 | |76|[Palindrome Transformation](http://codeforces.com/problemset/problem/486/C)|Codeforces|4|
