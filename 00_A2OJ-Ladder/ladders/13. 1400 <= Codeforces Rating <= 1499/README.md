@@ -77,23 +77,23 @@
 | [here](./070.md) |70|[Vanya and Exams](http://codeforces.com/problemset/problem/492/C)|Codeforces|4|
 | [here](./071.md) |71|[Fixing Typos](http://codeforces.com/problemset/problem/363/C)|Codeforces|4|
 | [here](./072.md)<br>思维题<br>数学推导 结论 |72|[LCM Challenge](http://codeforces.com/problemset/problem/235/A)|Codeforces|4|
-|  |73|[Caesar's Legions](http://codeforces.com/problemset/problem/118/D)|Codeforces|4|
-| |74|[Xenia and Bit Operations](http://codeforces.com/problemset/problem/339/D)|Codeforces|4|
+| [here](./073.md)<br/>dp<br/>状态定义和转移 |73|[Caesar's Legions](http://codeforces.com/problemset/problem/118/D)|Codeforces|4|
+| [here](./074.md)<br>线段树<br>题目数据使得计算层数很简单<br>只要最后一层为0即可 |74|[Xenia and Bit Operations](http://codeforces.com/problemset/problem/339/D)|Codeforces|4|
 | [here](./075.md) |75|[Little Girl and Maximum Sum](http://codeforces.com/problemset/problem/276/C)|Codeforces|4|
-| |76|[Palindrome Transformation](http://codeforces.com/problemset/problem/486/C)|Codeforces|4|
-| |77|[Array](http://codeforces.com/problemset/problem/224/B)|Codeforces|4|
-| |78|[Factory](http://codeforces.com/problemset/problem/485/A)|Codeforces|4|
-| |79|[Ping-Pong (Easy Version)](http://codeforces.com/problemset/problem/320/B)|Codeforces|4|
+| [here](./076.md)<br>思维题<br>代码简单 推导较多 好题 |76|[Palindrome Transformation](http://codeforces.com/problemset/problem/486/C)|Codeforces|4|
+| [here](./077.md)<br>简单滑动窗口 |77|[Array](http://codeforces.com/problemset/problem/224/B)|Codeforces|4|
+| [here](./078.md)<br/>题意不好懂 遍历即可 |78|[Factory](http://codeforces.com/problemset/problem/485/A)|Codeforces|4|
+| [here](./079.md)<br/>题意不好懂 |79|[Ping-Pong (Easy Version)](http://codeforces.com/problemset/problem/320/B)|Codeforces|4|
 | [here](./080.md) |80|[Routine Problem](http://codeforces.com/problemset/problem/337/B)|Codeforces|4|
-| |81|[Tourist Problem](http://codeforces.com/problemset/problem/340/C)|Codeforces|4|
-| |82|[Color Stripe](http://codeforces.com/problemset/problem/219/C)|Codeforces|4|
-| |83|[Maze](http://codeforces.com/problemset/problem/377/A)|Codeforces|4|
-| |84|[Valera and Tubes ](http://codeforces.com/problemset/problem/441/C)|Codeforces|4|
+| [here](./081.md)<br/>数论题 规律 推导 **优化**<br>**非常好的题 反复做**<br>其中**将计算两重循环绝对值差转化为前缀和**的思路非常精妙 有可拓展性 |81|[Tourist Problem](http://codeforces.com/problemset/problem/340/C)|Codeforces|4|
+| [here](./082.md)<br>简单dp |82|[Color Stripe](http://codeforces.com/problemset/problem/219/C)|Codeforces|4|
+| [here](./083.md)<br/>思维转化 简单dfs |83|[Maze](http://codeforces.com/problemset/problem/377/A)|Codeforces|4|
+| [here](./084.md)<br/>思维 构造方法很多<br>**有一个聚聚的超简洁代码** |84|[Valera and Tubes ](http://codeforces.com/problemset/problem/441/C)|Codeforces|4|
 | [here](./085.md) |85|[Polo the Penguin and Matrix](http://codeforces.com/problemset/problem/289/B)|Codeforces|4|
 | [here](./086.md) |86|[Boredom](http://codeforces.com/problemset/problem/455/A)|Codeforces|4|
-| |87|[Funky Numbers](http://codeforces.com/problemset/problem/192/A)|Codeforces|4|
+| [here](./087.md)<br>预处理 双指针 简单 |87|[Funky Numbers](http://codeforces.com/problemset/problem/192/A)|Codeforces|4|
 | [here](./088.md) |88|[George and Job](http://codeforces.com/problemset/problem/467/C)|Codeforces|4|
-| |89|[Xenia and Weights](http://codeforces.com/problemset/problem/339/C)|Codeforces|4|
+| [here](./089.md)<br>要想到用 dp OR dfs **敏感度**<br>dp状态定义 以及转移四重循环 重复做<br> |89|[Xenia and Weights](http://codeforces.com/problemset/problem/339/C)|Codeforces|4|
 | |90|[Physics Practical](http://codeforces.com/problemset/problem/253/B)|Codeforces|4|
 | |91|[Little Pony and Sort by Shift](http://codeforces.com/problemset/problem/454/B)|Codeforces|4|
 | |92|[Bombs](http://codeforces.com/problemset/problem/350/C)|Codeforces|4|
