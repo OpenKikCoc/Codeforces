@@ -93,15 +93,15 @@
 | [here](./086.md) |86|[Boredom](http://codeforces.com/problemset/problem/455/A)|Codeforces|4|
 | [here](./087.md)<br>预处理 双指针 简单 |87|[Funky Numbers](http://codeforces.com/problemset/problem/192/A)|Codeforces|4|
 | [here](./088.md) |88|[George and Job](http://codeforces.com/problemset/problem/467/C)|Codeforces|4|
-| [here](./089.md)<br>要想到用 dp OR dfs **敏感度**<br>dp状态定义 以及转移四重循环 重复做<br> |89|[Xenia and Weights](http://codeforces.com/problemset/problem/339/C)|Codeforces|4|
-| |90|[Physics Practical](http://codeforces.com/problemset/problem/253/B)|Codeforces|4|
-| |91|[Little Pony and Sort by Shift](http://codeforces.com/problemset/problem/454/B)|Codeforces|4|
-| |92|[Bombs](http://codeforces.com/problemset/problem/350/C)|Codeforces|4|
-| |93|[Number of Ways](http://codeforces.com/problemset/problem/466/C)|Codeforces|4|
-| |94|[Team](http://codeforces.com/problemset/problem/401/C)|Codeforces|4|
-| |95|[Another Problem on Strings](http://codeforces.com/problemset/problem/165/C)|Codeforces|4|
-| |96|[Color the Fence](http://codeforces.com/problemset/problem/349/B)|Codeforces|4|
+| [here](./089.md)<br>要想到用 dp OR dfs **敏感度**<br>dp状态定义 以及转移四重循环 重复做 |89|[Xenia and Weights](http://codeforces.com/problemset/problem/339/C)|Codeforces|4|
+| [here](./090.md)<br/>二分 略 |90|[Physics Practical](http://codeforces.com/problemset/problem/253/B)|Codeforces|4|
+| [here](./091.md)<br/>思维题 题意十分难理解对...<br>*直接找 **本位置比前面小** 的位置并记录* 的思路 |91|[Little Pony and Sort by Shift](http://codeforces.com/problemset/problem/454/B)|Codeforces|4|
+| [here](./092.md)<br/>排序 快读 |92|[Bombs](http://codeforces.com/problemset/problem/350/C)|Codeforces|4|
+| [here](./093.md)<br/>自己线性扫描即可<br>题解做法较复杂 |93|[Number of Ways](http://codeforces.com/problemset/problem/466/C)|Codeforces|4|
+| [here](./094.md)<br>简单构造 |94|[Team](http://codeforces.com/problemset/problem/401/C)|Codeforces|4|
+| [here](./095.md)<br>滑动窗口一次过<br>luogu 有**技巧性很强值得学习**的做法 |95|[Another Problem on Strings](http://codeforces.com/problemset/problem/165/C)|Codeforces|4|
+| [here](./096.md)<br>自己写背包写过<br>官方题解和 luogu 都是模拟的做法<br>**模拟思路有技巧** |96|[Color the Fence](http://codeforces.com/problemset/problem/349/B)|Codeforces|4|
 | [here](./097.md) |97|[Tetrahedron](http://codeforces.com/problemset/problem/166/E)|Codeforces|4|
 | [here](./098.md) |98|[k-Tree](http://codeforces.com/problemset/problem/431/C)|Codeforces|4|
-| |99|[Vasya and Basketball](http://codeforces.com/problemset/problem/493/C)|Codeforces|5|
-| |100|[Gargari and Bishops](http://codeforces.com/problemset/problem/463/C)|Codeforces|5|
+| [here](./099.md)<br>写起来细节多很慢<br>思路正确 AC |99|[Vasya and Basketball](http://codeforces.com/problemset/problem/493/C)|Codeforces|5|
+| [here](./100.md)<br>比较容易想到做法<br>一开始理解错题意（以为可以有交点求全局最大）<br>改了就过 以及可以简化代码 |100|[Gargari and Bishops](http://codeforces.com/problemset/problem/463/C)|Codeforces|5|
