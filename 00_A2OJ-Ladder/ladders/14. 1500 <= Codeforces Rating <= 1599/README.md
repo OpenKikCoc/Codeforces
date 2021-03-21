@@ -15,12 +15,12 @@
 | [here](./008.md) |8|[Xenia and Ringroad](http://codeforces.com/problemset/problem/339/B)|Codeforces|2|
 | [here](./009.md) |9|[Slightly Decreasing Permutations](http://codeforces.com/problemset/problem/285/A)|Codeforces|2|
 | [here](./010.md) |10|[Football](http://codeforces.com/problemset/problem/96/A)|Codeforces|2|
-| |11|[Caisa and Pylons](http://codeforces.com/problemset/problem/463/B)|Codeforces|2|
+| [here](./011.md) |11|[Caisa and Pylons](http://codeforces.com/problemset/problem/463/B)|Codeforces|2|
 | [here](./012.md) |12|[Present from Lena](http://codeforces.com/problemset/problem/118/B)|Codeforces|2|
 | [here](./013.md) |13|[k-String](http://codeforces.com/problemset/problem/219/A)|Codeforces|2|
 | [here](./014.md) |14|[Fancy Fence](http://codeforces.com/problemset/problem/270/A)|Codeforces|2|
 | [here](./015.md) |15|[Chat room](http://codeforces.com/problemset/problem/58/A)|Codeforces|2|
-| |16|[Contest](http://codeforces.com/problemset/problem/501/A)|Codeforces|2|
+| [here](./016.md) |16|[Contest](http://codeforces.com/problemset/problem/501/A)|Codeforces|2|
 | [here](./017.md) |17|[Twins](http://codeforces.com/problemset/problem/160/A)|Codeforces|2|
 | [here](./018.md) |18|[Puzzles](http://codeforces.com/problemset/problem/337/A)|Codeforces|2|
 | [here](./019.md) |19|[String Task](http://codeforces.com/problemset/problem/118/A)|Codeforces|2|
@@ -29,9 +29,9 @@
 | [here](./022.md) |22|[Fence](http://codeforces.com/problemset/problem/363/B)|Codeforces|3|
 | [here](./023.md) |23|[T-primes](http://codeforces.com/problemset/problem/230/B)|Codeforces|3|
 | [here](./024.md) |24|[Rank List](http://codeforces.com/problemset/problem/166/A)|Codeforces|3|
-| |25|[Fox and Box Accumulation](http://codeforces.com/problemset/problem/388/A)|Codeforces|3|
+| [here](./025.md)<br>显然贪心排序<br>线性做法需要思维 **重复** |25|[Fox and Box Accumulation](http://codeforces.com/problemset/problem/388/A)|Codeforces|3|
 | [here](./026.md) |26|[Cinema Line](http://codeforces.com/problemset/problem/349/A)|Codeforces|3|
-| |27|[Escape from Stones](http://codeforces.com/problemset/problem/264/A)|Codeforces|3|
+| [here](./027.md)<br>纯模拟会有精度损失<br>**思维题** 根据题意来找规律 |27|[Escape from Stones](http://codeforces.com/problemset/problem/264/A)|Codeforces|3|
 | [here](./028.md) |28|[Laptops](http://codeforces.com/problemset/problem/456/A)|Codeforces|3|
 | [here](./029.md) |29|[Little Elephant and Bits](http://codeforces.com/problemset/problem/258/A)|Codeforces|3|
 | [here](./030.md) |30|[Flipping Game](http://codeforces.com/problemset/problem/327/A)|Codeforces|3|
@@ -40,11 +40,11 @@
 | [here](./033.md) |33|[Building Permutation](http://codeforces.com/problemset/problem/285/C)|Codeforces|3|
 | [here](./034.md) |34|[Ilya and Queries](http://codeforces.com/problemset/problem/313/B)|Codeforces|3|
 | [here](./035.md) |35|[Kuriyama Mirai's Stones](http://codeforces.com/problemset/problem/433/B)|Codeforces|3|
-| |36|[Party](http://codeforces.com/problemset/problem/115/A)|Codeforces|3|
+| [here](./036.md)<br>理解题意 求树深 |36|[Party](http://codeforces.com/problemset/problem/115/A)|Codeforces|3|
 | [here](./037.md) |37|[Ice Skating](http://codeforces.com/problemset/problem/217/A)|Codeforces|3|
 | [here](./038.md) |38|[Cut Ribbon](http://codeforces.com/problemset/problem/189/A)|Codeforces|3|
-| |39|[Booking System](http://codeforces.com/problemset/problem/416/C)|Codeforces|4|
-| |40|[Fox And Names](http://codeforces.com/problemset/problem/510/C)|Codeforces|4|
+| [here](./039.md)<br>贪心即可 |39|[Booking System](http://codeforces.com/problemset/problem/416/C)|Codeforces|4|
+| [here](./040.md)<br/>拓扑序 |40|[Fox And Names](http://codeforces.com/problemset/problem/510/C)|Codeforces|4|
 | |41|[Fox And Two Dots](http://codeforces.com/problemset/problem/510/B)|Codeforces|4|
 | |42|[Pocket Book](http://codeforces.com/problemset/problem/152/C)|Codeforces|4|
 | [here](./043.md) |43|[Array](http://codeforces.com/problemset/problem/224/B)|Codeforces|4|
