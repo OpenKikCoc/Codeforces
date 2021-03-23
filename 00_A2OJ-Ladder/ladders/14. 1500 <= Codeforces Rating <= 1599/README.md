@@ -45,14 +45,14 @@
 | [here](./038.md) |38|[Cut Ribbon](http://codeforces.com/problemset/problem/189/A)|Codeforces|3|
 | [here](./039.md)<br>贪心即可 |39|[Booking System](http://codeforces.com/problemset/problem/416/C)|Codeforces|4|
 | [here](./040.md)<br/>拓扑序 |40|[Fox And Names](http://codeforces.com/problemset/problem/510/C)|Codeforces|4|
-| |41|[Fox And Two Dots](http://codeforces.com/problemset/problem/510/B)|Codeforces|4|
-| |42|[Pocket Book](http://codeforces.com/problemset/problem/152/C)|Codeforces|4|
+| [here](./041.md)<br/>简单dfs |41|[Fox And Two Dots](http://codeforces.com/problemset/problem/510/B)|Codeforces|4|
+| [here](./042.md)<br/>组合 题意很关键<br>分析后写码很简单 **重复做** |42|[Pocket Book](http://codeforces.com/problemset/problem/152/C)|Codeforces|4|
 | [here](./043.md) |43|[Array](http://codeforces.com/problemset/problem/224/B)|Codeforces|4|
-| |44|[Ladder](http://codeforces.com/problemset/problem/279/C)|Codeforces|4|
-| |45|[Divisibility by Eight](http://codeforces.com/problemset/problem/550/C)|Codeforces|4|
-| |46|[Little Elephant and Problem](http://codeforces.com/problemset/problem/220/A)|Codeforces|4|
+| [here](./044.md)<br>题意转换 线性扫描即可<br>`r[a] >= l[b]` 的小细节 |44|[Ladder](http://codeforces.com/problemset/problem/279/C)|Codeforces|4|
+| [here](./045.md)<br>**重复做...小学奥数**<br>一个数要被 8 整除 末尾三个数一定是 8 的倍数 |45|[Divisibility by Eight](http://codeforces.com/problemset/problem/550/C)|Codeforces|4|
+| [here](./046.md)<br>水 |46|[Little Elephant and Problem](http://codeforces.com/problemset/problem/220/A)|Codeforces|4|
 | [here](./047.md) |47|[Ciel and Flowers](http://codeforces.com/problemset/problem/322/B)|Codeforces|4|
-| |48|[Convex Shape](http://codeforces.com/problemset/problem/275/B)|Codeforces|4|
+| [here](./048.md)<br>实现的代码技巧 |48|[Convex Shape](http://codeforces.com/problemset/problem/275/B)|Codeforces|4|
 | [here](./049.md) |49|[Maze](http://codeforces.com/problemset/problem/377/A)|Codeforces|4|
 | |50|[View Angle](http://codeforces.com/problemset/problem/257/C)|Codeforces|4|
 | |51|[Mr. Kitayuta, the Treasure Hunter](http://codeforces.com/problemset/problem/505/C)|Codeforces|4|
