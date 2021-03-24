@@ -54,16 +54,16 @@
 | [here](./047.md) |47|[Ciel and Flowers](http://codeforces.com/problemset/problem/322/B)|Codeforces|4|
 | [here](./048.md)<br>实现的代码技巧 |48|[Convex Shape](http://codeforces.com/problemset/problem/275/B)|Codeforces|4|
 | [here](./049.md) |49|[Maze](http://codeforces.com/problemset/problem/377/A)|Codeforces|4|
-| |50|[View Angle](http://codeforces.com/problemset/problem/257/C)|Codeforces|4|
-| |51|[Mr. Kitayuta, the Treasure Hunter](http://codeforces.com/problemset/problem/505/C)|Codeforces|4|
+| [here](./050.md)<br>几何题 暴力枚举 技巧 |50|[View Angle](http://codeforces.com/problemset/problem/257/C)|Codeforces|4|
+| [here](./051.md)<br/>**根据推断优化空间**<br>记忆化搜索 数组比map快很多 |51|[Mr. Kitayuta, the Treasure Hunter](http://codeforces.com/problemset/problem/505/C)|Codeforces|4|
 | [here](./052.md) |52|[Maximum Absurdity](http://codeforces.com/problemset/problem/332/B)|Codeforces|4|
 | [here](./053.md) |53|[Color Stripe](http://codeforces.com/problemset/problem/219/C)|Codeforces|4|
-| |54|[Checkposts](http://codeforces.com/problemset/problem/427/C)|Codeforces|4|
-| |55|[Misha and Forest](http://codeforces.com/problemset/problem/501/C)|Codeforces|4|
-| |56|[Kolya and Tandem Repeat](http://codeforces.com/problemset/problem/443/B)|Codeforces|4|
-| |57|[Anya and Ghosts](http://codeforces.com/problemset/problem/508/C)|Codeforces|4|
-| |58|[Removing Columns](http://codeforces.com/problemset/problem/496/C)|Codeforces|4|
-| |59|[Beautiful Numbers](http://codeforces.com/problemset/problem/300/C)|Codeforces|4|
+| [here](./054.md)<br>非常好的 SCC 图论题 |54|[Checkposts](http://codeforces.com/problemset/problem/427/C)|Codeforces|4|
+| [here](./055.md)<br/>拓扑排序 图论题 |55|[Misha and Forest](http://codeforces.com/problemset/problem/501/C)|Codeforces|4|
+| [here](./056.md)<br/>思维 重复做 |56|[Kolya and Tandem Repeat](http://codeforces.com/problemset/problem/443/B)|Codeforces|4|
+| [here](./057.md)<br/>思维 重复做<br>因可以提前点蜡烛的实现技巧 |57|[Anya and Ghosts](http://codeforces.com/problemset/problem/508/C)|Codeforces|4|
+| [here](./058.md)<br/>好想到做法 注意 corner case |58|[Removing Columns](http://codeforces.com/problemset/problem/496/C)|Codeforces|4|
+| [here](./059.md)<br/>非常好的组合数题目 重复做 |59|[Beautiful Numbers](http://codeforces.com/problemset/problem/300/C)|Codeforces|4|
 | |60|[Vasya and Chess](http://codeforces.com/problemset/problem/493/D)|Codeforces|4|
 | [here](./061.md) |61|[Hamburgers](http://codeforces.com/problemset/problem/371/C)|Codeforces|4|
 | |62|[Colorful Graph](http://codeforces.com/problemset/problem/246/D)|Codeforces|4|
