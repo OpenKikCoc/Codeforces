@@ -64,15 +64,15 @@
 | [here](./057.md)<br/>思维 重复做<br>因可以提前点蜡烛的实现技巧 |57|[Anya and Ghosts](http://codeforces.com/problemset/problem/508/C)|Codeforces|4|
 | [here](./058.md)<br/>好想到做法 注意 corner case |58|[Removing Columns](http://codeforces.com/problemset/problem/496/C)|Codeforces|4|
 | [here](./059.md)<br/>非常好的组合数题目 重复做 |59|[Beautiful Numbers](http://codeforces.com/problemset/problem/300/C)|Codeforces|4|
-| |60|[Vasya and Chess](http://codeforces.com/problemset/problem/493/D)|Codeforces|4|
+| [here](./060.md)<br/>非常好的思维题 重复做 |60|[Vasya and Chess](http://codeforces.com/problemset/problem/493/D)|Codeforces|4|
 | [here](./061.md) |61|[Hamburgers](http://codeforces.com/problemset/problem/371/C)|Codeforces|4|
-| |62|[Colorful Graph](http://codeforces.com/problemset/problem/246/D)|Codeforces|4|
-| |63|[To Add or Not to Add](http://codeforces.com/problemset/problem/231/C)|Codeforces|4|
+| [here](./062.md)<br/>简单 注意case |62|[Colorful Graph](http://codeforces.com/problemset/problem/246/D)|Codeforces|4|
+| [here](./063.md)<br/>简单二分 思路还是想了一会的<br>**还可以用滑动窗口来做 [luogu](https://www.luogu.com.cn/problem/solution/CF231C)** |63|[To Add or Not to Add](http://codeforces.com/problemset/problem/231/C)|Codeforces|4|
 | [here](./064.md) |64|[Xenia and Bit Operations](http://codeforces.com/problemset/problem/339/D)|Codeforces|4|
-| |65|[Little Girl and Maximum XOR](http://codeforces.com/problemset/problem/276/D)|Codeforces|4|
-| |66|[Arithmetic Progression](http://codeforces.com/problemset/problem/382/C)|Codeforces|4|
-| |67|[Friends and Presents](http://codeforces.com/problemset/problem/483/B)|Codeforces|4|
-| |68|[Barcode](http://codeforces.com/problemset/problem/225/C)|Codeforces|4|
+| [here](./065.md)<br/>**思维题** 需要重复做<br>思维本质上是贪心 也可以数位dp比较麻烦 |65|[Little Girl and Maximum XOR](http://codeforces.com/problemset/problem/276/D)|Codeforces|4|
+| [here](./066.md)<br>巨多case和细节 简单就是麻烦 |66|[Arithmetic Progression](http://codeforces.com/problemset/problem/382/C)|Codeforces|4|
+| [here](./066.md)<br/>思维题 细节 公式推导很重要 重复做 |67|[Friends and Presents](http://codeforces.com/problemset/problem/483/B)|Codeforces|4|
+| [here](./068.md)<br/>这题竟然是dp？<br>状态定义 转移 前缀和技巧 **重复做** |68|[Barcode](http://codeforces.com/problemset/problem/225/C)|Codeforces|4|
 | [here](./069.md) |69|[Xenia and Weights](http://codeforces.com/problemset/problem/339/C)|Codeforces|4|
 | [here](./070.md) |70|[Little Dima and Equation](http://codeforces.com/problemset/problem/460/B)|Codeforces|4|
 | |71|[Long Jumps](http://codeforces.com/problemset/problem/479/D)|Codeforces|4|
