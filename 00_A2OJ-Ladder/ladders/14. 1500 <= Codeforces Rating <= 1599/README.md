@@ -75,25 +75,25 @@
 | [here](./068.md)<br/>这题竟然是dp？<br>状态定义 转移 前缀和技巧 **重复做** |68|[Barcode](http://codeforces.com/problemset/problem/225/C)|Codeforces|4|
 | [here](./069.md) |69|[Xenia and Weights](http://codeforces.com/problemset/problem/339/C)|Codeforces|4|
 | [here](./070.md) |70|[Little Dima and Equation](http://codeforces.com/problemset/problem/460/B)|Codeforces|4|
-| |71|[Long Jumps](http://codeforces.com/problemset/problem/479/D)|Codeforces|4|
+| [here](./071.md)<br>细节 |71|[Long Jumps](http://codeforces.com/problemset/problem/479/D)|Codeforces|4|
 | [here](./072.md) |72|[Tetrahedron](http://codeforces.com/problemset/problem/166/E)|Codeforces|4|
 | [here](./073.md) |73|[Physics Practical](http://codeforces.com/problemset/problem/253/B)|Codeforces|4|
 | [here](./074.md) |74|[Boredom](http://codeforces.com/problemset/problem/455/A)|Codeforces|4|
 | [here](./075.md) |75|[Valera and Tubes ](http://codeforces.com/problemset/problem/441/C)|Codeforces|4|
-| |76|[Valera and Elections](http://codeforces.com/problemset/problem/369/C)|Codeforces|4|
+| [here](./076.md)<br>**从未见过的树形DP**<br>思路 实现 重复做 |76|[Valera and Elections](http://codeforces.com/problemset/problem/369/C)|Codeforces|4|
 | [here](./077.md) |77|[Little Girl and Maximum Sum](http://codeforces.com/problemset/problem/276/C)|Codeforces|4|
 | [here](./078.md) |78|[George and Job](http://codeforces.com/problemset/problem/467/C)|Codeforces|4|
-| |79|[Table Decorations](http://codeforces.com/problemset/problem/478/C)|Codeforces|4|
+| [here](./079.md)<br>数学 思维题 思路 |79|[Table Decorations](http://codeforces.com/problemset/problem/478/C)|Codeforces|4|
 | [here](./080.md) |80|[k-Tree](http://codeforces.com/problemset/problem/431/C)|Codeforces|4|
 | [here](./081.md) |81|[Color the Fence](http://codeforces.com/problemset/problem/349/B)|Codeforces|4|
 | [here](./082.md) |82|[Polo the Penguin and Matrix](http://codeforces.com/problemset/problem/289/B)|Codeforces|4|
 | [here](./083.md) |83|[Another Problem on Strings](http://codeforces.com/problemset/problem/165/C)|Codeforces|4|
 | [here](./084.md) |84|[Exams](http://codeforces.com/problemset/problem/479/C)|Codeforces|4|
 | [here](./085.md) |85|[Caesar's Legions](http://codeforces.com/problemset/problem/118/D)|Codeforces|4|
-| |86|[Beautiful Sets of Points](http://codeforces.com/problemset/problem/268/C)|Codeforces|4|
+| [here](./086.md)<br/>思维 构造 |86|[Beautiful Sets of Points](http://codeforces.com/problemset/problem/268/C)|Codeforces|4|
 | [here](./087.md) |87|[Boredom](http://codeforces.com/problemset/problem/455/A)|Codeforces|4|
 | [here](./088.md) |88|[Number of Ways](http://codeforces.com/problemset/problem/466/C)|Codeforces|4|
-| |89|[A and B and Interesting Substrings](http://codeforces.com/problemset/problem/519/D)|Codeforces|5|
+| [here](./089.md)<br>前缀和应用 思维题 |89|[A and B and Interesting Substrings](http://codeforces.com/problemset/problem/519/D)|Codeforces|5|
 | |90|[Valid Sets](http://codeforces.com/problemset/problem/486/D)|Codeforces|5|
 | |91|[Devu and Partitioning of the Array](http://codeforces.com/problemset/problem/439/C)|Codeforces|5|
 | |92|[Good Substrings](http://codeforces.com/problemset/problem/271/D)|Codeforces|5|
