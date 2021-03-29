@@ -94,14 +94,14 @@
 | [here](./087.md) |87|[Boredom](http://codeforces.com/problemset/problem/455/A)|Codeforces|4|
 | [here](./088.md) |88|[Number of Ways](http://codeforces.com/problemset/problem/466/C)|Codeforces|4|
 | [here](./089.md)<br>前缀和应用 思维题 |89|[A and B and Interesting Substrings](http://codeforces.com/problemset/problem/519/D)|Codeforces|5|
-| |90|[Valid Sets](http://codeforces.com/problemset/problem/486/D)|Codeforces|5|
-| |91|[Devu and Partitioning of the Array](http://codeforces.com/problemset/problem/439/C)|Codeforces|5|
-| |92|[Good Substrings](http://codeforces.com/problemset/problem/271/D)|Codeforces|5|
-| |93|[Wonder Room](http://codeforces.com/problemset/problem/466/B)|Codeforces|5|
-| |94|[Present](http://codeforces.com/problemset/problem/460/C)|Codeforces|5|
-| |95|[Painting Fence](http://codeforces.com/problemset/problem/448/C)|Codeforces|5|
+| [here](./090.md)<br/>思维题 树形dp 重复 |90|[Valid Sets](http://codeforces.com/problemset/problem/486/D)|Codeforces|5|
+| [here](./091.md)<br/>思维题 细节case很多 |91|[Devu and Partitioning of the Array](http://codeforces.com/problemset/problem/439/C)|Codeforces|5|
+| [here](./092.md)<br/>字符串hash 很好的应用 |92|[Good Substrings](http://codeforces.com/problemset/problem/271/D)|Codeforces|5|
+| [here](./093.md)<br/>思维题 暴力 优化 |93|[Wonder Room](http://codeforces.com/problemset/problem/466/B)|Codeforces|5|
+| [here](./094.md)<br/>贪心+二分+差分 应用 边界case |94|[Present](http://codeforces.com/problemset/problem/460/C)|Codeforces|5|
+| [here](./095.md)<br/>**非常好的贪心分治题目** 重复 |95|[Painting Fence](http://codeforces.com/problemset/problem/448/C)|Codeforces|5|
 | [here](./096.md) |96|[Vasya and Basketball](http://codeforces.com/problemset/problem/493/C)|Codeforces|5|
-| |97|[Bear and Prime Numbers](http://codeforces.com/problemset/problem/385/C)|Codeforces|5|
-| |98|[Restore Graph](http://codeforces.com/problemset/problem/404/C)|Codeforces|5|
+| [here](./097.md)<br/>**非常好的数论题 素数筛**<br>**以及用埃式筛法 而非线形筛 思维** |97|[Bear and Prime Numbers](http://codeforces.com/problemset/problem/385/C)|Codeforces|5|
+| [here](./098.md)<br/>非常好的构造题 |98|[Restore Graph](http://codeforces.com/problemset/problem/404/C)|Codeforces|5|
 | [here](./099.md) |99|[Gargari and Bishops](http://codeforces.com/problemset/problem/463/C)|Codeforces|5|
-| |100|[Multiplication Table](http://codeforces.com/problemset/problem/448/D)|Codeforces|5|
+| [here](./100.md)<br/>二分 |100|[Multiplication Table](http://codeforces.com/problemset/problem/448/D)|Codeforces|5|
