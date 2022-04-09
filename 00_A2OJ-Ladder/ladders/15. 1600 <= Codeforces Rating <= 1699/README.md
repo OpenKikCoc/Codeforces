@@ -9,7 +9,7 @@
 | - |2|[Beautiful Matrix](http://codeforces.com/problemset/problem/263/A)|Codeforces|1|
 | - |3|[Team](http://codeforces.com/problemset/problem/231/A)|Codeforces|1|
 | - |4|[Petya and Strings](http://codeforces.com/problemset/problem/112/A)|Codeforces|1|
-| |5|[Magnets](http://codeforces.com/problemset/problem/344/A)|Codeforces|1|
+| [here](005.md) |5|[Magnets](http://codeforces.com/problemset/problem/344/A)|Codeforces|1|
 | - |6|[Young Physicist](http://codeforces.com/problemset/problem/69/A)|Codeforces|1|
 | - |7|[Word Capitalization](http://codeforces.com/problemset/problem/281/A)|Codeforces|1|
 | - |8|[Bit++](http://codeforces.com/problemset/problem/282/A)|Codeforces|1|
@@ -30,33 +30,33 @@
 | - |23|[Fence](http://codeforces.com/problemset/problem/363/B)|Codeforces|3|
 | - |24|[Party](http://codeforces.com/problemset/problem/115/A)|Codeforces|3|
 | - |25|[Building Permutation](http://codeforces.com/problemset/problem/285/C)|Codeforces|3|
-| |26|[Greg and Array](http://codeforces.com/problemset/problem/295/A)|Codeforces|3|
+| [here](026.md) |26|[Greg and Array](http://codeforces.com/problemset/problem/295/A)|Codeforces|3|
 | - |27|[Cut Ribbon](http://codeforces.com/problemset/problem/189/A)|Codeforces|3|
 | - |28|[Maximum Absurdity](http://codeforces.com/problemset/problem/332/B)|Codeforces|4|
 | - |29|[Vasya and Chess](http://codeforces.com/problemset/problem/493/D)|Codeforces|4|
-| |30|[Bubble Sort Graph](http://codeforces.com/problemset/problem/340/D)|Codeforces|4|
-| |31|[Modified GCD](http://codeforces.com/problemset/problem/75/C)|Codeforces|4|
+| [here](030.md)<br>LIS 推导 |30|[Bubble Sort Graph](http://codeforces.com/problemset/problem/340/D)|Codeforces|4|
+| [here](031.md) |31|[Modified GCD](http://codeforces.com/problemset/problem/75/C)|Codeforces|4|
 | - |32|[Palindrome Transformation](http://codeforces.com/problemset/problem/486/C)|Codeforces|4|
-| |33|[Mafia](http://codeforces.com/problemset/problem/348/A)|Codeforces|4|
+| [here](033.md)<br>互补思想 |33|[Mafia](http://codeforces.com/problemset/problem/348/A)|Codeforces|4|
 | - |34|[To Add or Not to Add](http://codeforces.com/problemset/problem/231/C)|Codeforces|4|
-| |35|[Almost Arithmetical Progression](http://codeforces.com/problemset/problem/255/C)|Codeforces|4|
-| |36|[DZY Loves Sequences](http://codeforces.com/problemset/problem/446/A)|Codeforces|4|
-| |37|[Ilya and Matrix](http://codeforces.com/problemset/problem/313/C)|Codeforces|4|
+| [here](035.md)<br/>离散化 否则MLE |35|[Almost Arithmetical Progression](http://codeforces.com/problemset/problem/255/C)|Codeforces|4|
+| [here](036.md)<br/>前后缀分解 |36|[DZY Loves Sequences](http://codeforces.com/problemset/problem/446/A)|Codeforces|4|
+| [here](037.md)<br/>简单推导 |37|[Ilya and Matrix](http://codeforces.com/problemset/problem/313/C)|Codeforces|4|
 | - |38|[Physics Practical](http://codeforces.com/problemset/problem/253/B)|Codeforces|4|
-| |39|[Common Divisors](http://codeforces.com/problemset/problem/182/D)|Codeforces|4|
+| [here](039.md)<br/>最小循环节 |39|[Common Divisors](http://codeforces.com/problemset/problem/182/D)|Codeforces|4|
 | - |40|[Valera and Elections](http://codeforces.com/problemset/problem/369/C)|Codeforces|4|
 | - |41|[XOR and OR](http://codeforces.com/problemset/problem/282/C)|Codeforces|4|
 | - |42|[Color the Fence](http://codeforces.com/problemset/problem/349/B)|Codeforces|4|
 | - |43|[Colorful Graph](http://codeforces.com/problemset/problem/246/D)|Codeforces|4|
 | - |44|[Boredom](http://codeforces.com/problemset/problem/455/A)|Codeforces|4|
-| |45|[Hometask](http://codeforces.com/problemset/problem/214/B)|Codeforces|4|
+| [here](045.md)<br/>经典贪心 |45|[Hometask](http://codeforces.com/problemset/problem/214/B)|Codeforces|4|
 | - |46|[k-Tree](http://codeforces.com/problemset/problem/431/C)|Codeforces|4|
 | - |47|[Bombs](http://codeforces.com/problemset/problem/350/C)|Codeforces|4|
 | - |48|[Beautiful Numbers](http://codeforces.com/problemset/problem/300/C)|Codeforces|4|
-| |49|[Shaass and Bookshelf](http://codeforces.com/problemset/problem/294/B)|Codeforces|4|
-| |50|[Password](http://codeforces.com/problemset/problem/126/B)|Codeforces|4|
+| [here](049.md)<br/>数据范围贪心+暴力即可 |49|[Shaass and Bookshelf](http://codeforces.com/problemset/problem/294/B)|Codeforces|4|
+| [here](050.md)<br/>前缀和 细节 |50|[Password](http://codeforces.com/problemset/problem/126/B)|Codeforces|4|
 | - |51|[Fixing Typos](http://codeforces.com/problemset/problem/363/C)|Codeforces|4|
-| |52|[Zero Tree](http://codeforces.com/problemset/problem/274/B)|Codeforces|4|
+| [here](052.md)<br/>**树形dp** |52|[Zero Tree](http://codeforces.com/problemset/problem/274/B)|Codeforces|4|
 | |53|[Pipeline](http://codeforces.com/problemset/problem/287/B)|Codeforces|4|
 | |54|[Greenhouse Effect](http://codeforces.com/problemset/problem/269/B)|Codeforces|4|
 | - |55|[Hamburgers](http://codeforces.com/problemset/problem/371/C)|Codeforces|4|
