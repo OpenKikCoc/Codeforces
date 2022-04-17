@@ -57,13 +57,13 @@
 | [here](050.md)<br/>前缀和 细节 |50|[Password](http://codeforces.com/problemset/problem/126/B)|Codeforces|4|
 | - |51|[Fixing Typos](http://codeforces.com/problemset/problem/363/C)|Codeforces|4|
 | [here](052.md)<br/>**树形dp** |52|[Zero Tree](http://codeforces.com/problemset/problem/274/B)|Codeforces|4|
-| |53|[Pipeline](http://codeforces.com/problemset/problem/287/B)|Codeforces|4|
-| |54|[Greenhouse Effect](http://codeforces.com/problemset/problem/269/B)|Codeforces|4|
+| [here](053.md)<br/>简单数学 |53|[Pipeline](http://codeforces.com/problemset/problem/287/B)|Codeforces|4|
+| [here](054.md)<br/>LIS 重点要能想到 |54|[Greenhouse Effect](http://codeforces.com/problemset/problem/269/B)|Codeforces|4|
 | - |55|[Hamburgers](http://codeforces.com/problemset/problem/371/C)|Codeforces|4|
 | - |56|[Little Girl and Maximum XOR](http://codeforces.com/problemset/problem/276/D)|Codeforces|4|
-| |57|[Dima and Hares](http://codeforces.com/problemset/problem/358/D)|Codeforces|4|
+| [here](057.md)<br/>复杂线性dp **重点在状态定义与转移** |57|[Dima and Hares](http://codeforces.com/problemset/problem/358/D)|Codeforces|4|
 | - |58|[Another Problem on Strings](http://codeforces.com/problemset/problem/165/C)|Codeforces|4|
-| |59|[Cows and Sequence](http://codeforces.com/problemset/problem/283/A)|Codeforces|4|
+| [here](059.md)<br/>根据题意简化 |59|[Cows and Sequence](http://codeforces.com/problemset/problem/283/A)|Codeforces|4|
 | - |60|[Little Girl and Maximum Sum](http://codeforces.com/problemset/problem/276/C)|Codeforces|4|
 | - |61|[Booking System](http://codeforces.com/problemset/problem/416/C)|Codeforces|4|
 | - |62|[Barcode](http://codeforces.com/problemset/problem/225/C)|Codeforces|4|
@@ -73,35 +73,35 @@
 | - |66|[Xenia and Bit Operations](http://codeforces.com/problemset/problem/339/D)|Codeforces|4|
 | - |67|[Tetrahedron](http://codeforces.com/problemset/problem/166/E)|Codeforces|4|
 | - |68|[George and Job](http://codeforces.com/problemset/problem/467/C)|Codeforces|4|
-| |69|[Good Sequences](http://codeforces.com/problemset/problem/264/B)|Codeforces|4|
+| [here](069.md)<br/>非常经典值得记忆的优化方式 |69|[Good Sequences](http://codeforces.com/problemset/problem/264/B)|Codeforces|4|
 | - |70|[Xenia and Weights](http://codeforces.com/problemset/problem/339/C)|Codeforces|4|
-| |71|[Greg and Graph](http://codeforces.com/problemset/problem/295/B)|Codeforces|4|
+| [here](071.md)<br/>深刻理解 floyd |71|[Greg and Graph](http://codeforces.com/problemset/problem/295/B)|Codeforces|4|
 | - |72|[Number of Ways](http://codeforces.com/problemset/problem/466/C)|Codeforces|4|
-| |73|[Pair of Numbers](http://codeforces.com/problemset/problem/359/D)|Codeforces|5|
+| [here](073.md)<br/>考虑过单调队列 最终 rmq 维护两个性质并二分<br>**实际上可以直接前后缀分解** |73|[Pair of Numbers](http://codeforces.com/problemset/problem/359/D)|Codeforces|5|
 | - |74|[Wonder Room](http://codeforces.com/problemset/problem/466/B)|Codeforces|5|
-| |75|[Pashmak and Parmida's problem](http://codeforces.com/problemset/problem/459/D)|Codeforces|5|
-| |76|[Ice Cave](http://codeforces.com/problemset/problem/540/C)|Codeforces|5|
-| |77|[Devu and his Brother](http://codeforces.com/problemset/problem/439/D)|Codeforces|5|
-| |78|[Dima and Bacteria](http://codeforces.com/problemset/problem/400/D)|Codeforces|5|
-| |79|[Watto and Mechanism](http://codeforces.com/problemset/problem/514/C)|Codeforces|5|
+| [here](075.md)<br/>分析 简单前后缀分解+BIT |75|[Pashmak and Parmida's problem](http://codeforces.com/problemset/problem/459/D)|Codeforces|5|
+| [here](076.md)<br/>非常细节 |76|[Ice Cave](http://codeforces.com/problemset/problem/540/C)|Codeforces|5|
+| [here](077.md)<br/>推理fail 其实是非常精妙的贪心 |77|[Devu and his Brother](http://codeforces.com/problemset/problem/439/D)|Codeforces|5|
+| [here](078.md)<br/>并查集+floyd |78|[Dima and Bacteria](http://codeforces.com/problemset/problem/400/D)|Codeforces|5|
+| [here](079.md)<br/>字符串hash进阶经典 卡hash |79|[Watto and Mechanism](http://codeforces.com/problemset/problem/514/C)|Codeforces|5|
 | - |80|[Restore Graph](http://codeforces.com/problemset/problem/404/C)|Codeforces|5|
-| |81|[Riding in a Lift](http://codeforces.com/problemset/problem/479/E)|Codeforces|5|
-| |82|[Count Good Substrings](http://codeforces.com/problemset/problem/451/D)|Codeforces|5|
-| |83|[Roman and Numbers](http://codeforces.com/problemset/problem/401/D)|Codeforces|5|
-| |84|[Choosing Capital for Treeland](http://codeforces.com/problemset/problem/219/D)|Codeforces|5|
+| [here](081.md)<br/>线性dp |81|[Riding in a Lift](http://codeforces.com/problemset/problem/479/E)|Codeforces|5|
+| [here](082.md)<br/>数学推理 |82|[Count Good Substrings](http://codeforces.com/problemset/problem/451/D)|Codeforces|5|
+| [here](083.md)<br/>状压dp + 细节st标记 |83|[Roman and Numbers](http://codeforces.com/problemset/problem/401/D)|Codeforces|5|
+| [here](084.md)<br/>简单树dp |84|[Choosing Capital for Treeland](http://codeforces.com/problemset/problem/219/D)|Codeforces|5|
 | - |85|[Devu and Partitioning of the Array](http://codeforces.com/problemset/problem/439/C)|Codeforces|5|
 | - |86|[Valid Sets](http://codeforces.com/problemset/problem/486/D)|Codeforces|5|
-| |87|[MUH and Cube Walls](http://codeforces.com/problemset/problem/471/D)|Codeforces|5|
+| [here](087.md)<br/>kmp 在数值域的应用 |87|[MUH and Cube Walls](http://codeforces.com/problemset/problem/471/D)|Codeforces|5|
 | - |88|[Painting Fence](http://codeforces.com/problemset/problem/448/C)|Codeforces|5|
-| |89|[XOR on Segment](http://codeforces.com/problemset/problem/242/E)|Codeforces|5|
-| |90|[Vessels](http://codeforces.com/problemset/problem/371/D)|Codeforces|5|
-| |91|[Bad Luck Island](http://codeforces.com/problemset/problem/540/D)|Codeforces|5|
+| [here](089.md)<br/>线段树应用 + 二进制拆位 |89|[XOR on Segment](http://codeforces.com/problemset/problem/242/E)|Codeforces|5|
+| [here](090.md)<br/>经典并查集维护联通性质 快速找到下一个没有水的位置 |90|[Vessels](http://codeforces.com/problemset/problem/371/D)|Codeforces|5|
+| [here](091.md)<br/>概率DP **反复做** |91|[Bad Luck Island](http://codeforces.com/problemset/problem/540/D)|Codeforces|5|
 | - |92|[Multiplication Table](http://codeforces.com/problemset/problem/448/D)|Codeforces|5|
-| |93|[Red-Green Towers](http://codeforces.com/problemset/problem/478/D)|Codeforces|5|
-| |94|[Pashmak and Buses](http://codeforces.com/problemset/problem/459/C)|Codeforces|5|
-| |95|[Bag of mice](http://codeforces.com/problemset/problem/148/D)|Codeforces|5|
+| [here](093.md)<br/>**推导 转化为背包模型** |93|[Red-Green Towers](http://codeforces.com/problemset/problem/478/D)|Codeforces|5|
+| [here](094.md)<br/>转化 d 位 k 进制数 |94|[Pashmak and Buses](http://codeforces.com/problemset/problem/459/C)|Codeforces|5|
+| [here](095.md)<br/>概率DP **反复做** |95|[Bag of mice](http://codeforces.com/problemset/problem/148/D)|Codeforces|5|
 | - |96|[Gargari and Bishops](http://codeforces.com/problemset/problem/463/C)|Codeforces|5|
-| |97|[Gargari and Permutations](http://codeforces.com/problemset/problem/463/D)|Codeforces|5|
-| |98|[R2D2 and Droid Army](http://codeforces.com/problemset/problem/514/D)|Codeforces|5|
+| [here](097.md)<br/>多个n排列的LCS转化为DAG问题 |97|[Gargari and Permutations](http://codeforces.com/problemset/problem/463/D)|Codeforces|5|
+| [here](098.md)<br/>多维双指针 维护区间最值 |98|[R2D2 and Droid Army](http://codeforces.com/problemset/problem/514/D)|Codeforces|5|
 | - |99|[Bear and Prime Numbers](http://codeforces.com/problemset/problem/385/C)|Codeforces|5|
 | - |100|[Good Substrings](http://codeforces.com/problemset/problem/271/D)|Codeforces|5|
