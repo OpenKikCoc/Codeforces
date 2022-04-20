@@ -7,7 +7,7 @@
 |---|:---:|:---:|---|---|
 | - |1|[Candy Bags](http://codeforces.com/problemset/problem/334/A)|Codeforces|1|
 | - |2|[Word](http://codeforces.com/problemset/problem/59/A)|Codeforces|1|
-| |3|[Dreamoon and Stairs](http://codeforces.com/problemset/problem/476/A)|Codeforces|2|
+| [here](./003.md) |3|[Dreamoon and Stairs](http://codeforces.com/problemset/problem/476/A)|Codeforces|2|
 | - |4|[Cut Ribbon](http://codeforces.com/problemset/problem/189/A)|Codeforces|3|
 | - |5|[T-primes](http://codeforces.com/problemset/problem/230/B)|Codeforces|3|
 | - |6|[Ice Skating](http://codeforces.com/problemset/problem/217/A)|Codeforces|3|
@@ -18,7 +18,7 @@
 | - |11|[Table Decorations](http://codeforces.com/problemset/problem/478/C)|Codeforces|4|
 | - |12|[Checkposts](http://codeforces.com/problemset/problem/427/C)|Codeforces|4|
 | - |13|[Valera and Elections](http://codeforces.com/problemset/problem/369/C)|Codeforces|4|
-| |14|[Psychos in a Line](http://codeforces.com/problemset/problem/319/B)|Codeforces|4|
+| [here](./014.md) |14|[Psychos in a Line](http://codeforces.com/problemset/problem/319/B)|Codeforces|4|
 | |15|[Counting Rectangles is Fun](http://codeforces.com/problemset/problem/372/B)|Codeforces|4|
 | - |16|[Greg and Graph](http://codeforces.com/problemset/problem/295/B)|Codeforces|4|
 | - |17|[Little Girl and Maximum Sum](http://codeforces.com/problemset/problem/276/C)|Codeforces|4|
